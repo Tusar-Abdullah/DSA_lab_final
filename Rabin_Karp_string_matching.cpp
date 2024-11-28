@@ -29,7 +29,7 @@ int main()
     for(int i=0; i<=l1-l2; i++)
         {
 
-            if(hashs2 == hashs2)
+            if(hashs1 == hashs2)
                 {
                     int valid = 1;
 
